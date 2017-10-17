@@ -1,6 +1,6 @@
 provider "aws" {
   access_key = "None of your business"
-  secret_key = " None of your business"
+  secret_key = "None of your business"
   region     = "us-east-1"
 }
 
